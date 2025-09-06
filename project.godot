@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Top-down"
+config/tags=PackedStringArray("topdown")
 run/main_scene="uid://b844wyjwx1y8s"
 config/features=PackedStringArray("4.5", "GL Compatibility")
 config/icon="uid://kl5jripdre6q"
